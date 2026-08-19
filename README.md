@@ -1,25 +1,3 @@
----
-license: mit
-datasets:
-- open-r1/OpenR1-Math-220k
-language:
-- en
-- es
-- fr
-- de
-base_model:
-- microsoft/Phi-3.5-mini-instruct
-tags:
-- CoT
-- thinking
-- reasoning
-- rapple-ml
-- rappleml
-- math
----
-
-
-
 <img width="3168" height="1344" alt="image png_2K_202608181207" src="https://github.com/user-attachments/assets/c16187eb-97be-4d50-8ad1-8e7186b24fd5" />
 
 
