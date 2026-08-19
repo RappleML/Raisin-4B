@@ -1,7 +1,4 @@
-<img width="3168" height="1344" alt="image png_2K_202608181207" src="https://github.com/user-attachments/assets/c16187eb-97be-4d50-8ad1-8e7186b24fd5" />
-
-
-
+<img width="4356" height="870" alt="image" src="https://github.com/user-attachments/assets/45093e92-ae48-48d6-adc5-38029b20d957" />
 
 **A Long-Context Reasoning & Structural Planning Engine by Rapple ML**
 
