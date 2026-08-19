@@ -20,7 +20,8 @@ tags:
 
 
 
-![image.png_2K_202608181207](https://cdn-uploads.huggingface.co/production/uploads/6a5f8c87a38cac087c2c6c05/rdliof5clgu3KeFZsqUX8.jpeg)
+<img width="3168" height="1344" alt="image png_2K_202608181207" src="https://github.com/user-attachments/assets/c16187eb-97be-4d50-8ad1-8e7186b24fd5" />
+
 
 **A Long-Context Reasoning & Structural Planning Engine by Rapple ML**
 
